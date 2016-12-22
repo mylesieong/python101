@@ -14,3 +14,5 @@ print(len(even_list))
 print(len(even_list + odd_list))
 print((even_list + odd_list)[2])
 
+#list.count(x) return how many x found in list
+print(even_list.count(2))
